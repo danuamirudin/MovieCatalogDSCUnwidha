@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="det_language">Language</string>
+    <string name="det_rating">Rating</string>
+    <string name="det_release_date">Release Date</string>
+    <string name="det_vote_count">Vote Count</string>
+    <string name="det_popularity">Popularity</string>
+    <string name="det_description">Description</string>
+    <string name="det_back">Back</string>
+
+    <string name="release_at">Release at </string>
+
+    <string name="no_movie">No Description in this language</string>
+    <string name="movie_cover_description">Movie Cover</string>
+
+</resources>

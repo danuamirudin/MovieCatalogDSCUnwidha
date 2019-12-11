@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Movie Catalog Favorite</string>
+
+    <string name="det_language">Bahasa</string>
+    <string name="det_rating">Rating</string>
+    <string name="det_release_date">Tanggal Rilis</string>
+    <string name="det_vote_count">Jumlah Vote</string>
+    <string name="det_popularity">Popularitas</string>
+    <string name="det_description">Deskripsi</string>
+    <string name="det_back">Kembali</string>
+
+    <string name="release_at">Tayang Pada </string>
+
+    <string name="no_movie">Tidak ada deskripsi dalam bahasa ini</string>
+
+    <string name="movie_cover_description">Movie Cover</string>
+</resources>

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name" translatable="false">Movie Catalog</string>
+    <string name="cari_movie">CARI\nMOVIE</string>
+    <string name="menu_setting">Pengaturan</string>
+
+    <string name="search">Pencarian</string>
+    <string name="now_playing">Sedang Diputar</string>
+    <string name="upcoming">Mendatang</string>
+
+    <string name="det_language">Bahasa</string>
+    <string name="det_rating">Rating</string>
+    <string name="det_release_date">Tanggal Rilis</string>
+    <string name="det_vote_count">Jumlah Vote</string>
+    <string name="det_popularity">Popularitas</string>
+    <string name="det_description">Deskripsi</string>
+    <string name="det_back">Kembali</string>
+
+    <string name="release_at">Tayang Pada </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FAKULTAS ILMU KOMPUTER</string>
+    <string name="nav_header_subtitle">Follow IG Kami https://www.instagram.com/hmjti.unwidha/ </string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="no_movie">Tidak ada deskripsi dalam bahasa ini</string>
+
+    <string name="favorit">Favorit</string>
+    <string name="movie_cover_description">Movie Cover</string>
+    <string name="message_daily">Jangan lupa nonton film hari ini!</string>
+    <string name="release_today_msg">Film %s hari ini tayang, jangan sampai ketinggalan!</string>
+
+    <string name="key_lang" translatable="false">key_lang</string>
+    <string name="key_today_reminder" translatable="false">key_today_reminder</string>
+    <string name="key_release_reminder" translatable="false">key_release_reminder</string>
+
+    <string name="pref_title_notifications">Notifikasi</string>
+
+    <string name="daily_reminder_tittle">Pengingat Harian</string>
+    <string name="lang_title">Bahasa</string>
+    <string name="lang">Language</string>
+    <string name="release_reminder">Pengingat Release Terbaru</string>
+
+    <string name="summary_daily_release">Kamu akan menerima notifikasi film terbaru tiap pukul 8 pagi</string>
+    <string name="summary_daily_reminder">Kamu akan menerima notifikasi untuk cek aplikasi tiap pukul 7 pagi</string>
+    <string name="summary_lang">Pilih bahasa</string>
+
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="no_item">Tidak ada Item</string>
+</resources>

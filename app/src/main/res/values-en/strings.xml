@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cari_movie">FIND\nMOVIE</string>
+    <string name="menu_setting">Settings</string>
+
+    <string name="search">Searching</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+
+    <string name="det_language">Language</string>
+    <string name="det_rating">Rating</string>
+    <string name="det_release_date">Release Date</string>
+    <string name="det_vote_count">Vote Count</string>
+    <string name="det_popularity">Popularity</string>
+    <string name="det_description">Description</string>
+    <string name="det_back">Back</string>
+
+    <string name="release_at">Release at </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Iin Dinariyah</string>
+    <string name="nav_header_subtitle">visit https://www.dicoding.com/users/219171</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="no_movie">No Description in this language</string>
+    <string name="favorit">Favorite</string>
+    <string name="movie_cover_description">Movie Cover</string>
+
+    <string name="message_daily">Don\'t forget watch movies today!</string>
+    <string name="release_today_msg">%s release today, don\'t forget to watch it!</string>
+
+    <string name="pref_title_notifications">Notification</string>
+
+    <string name="daily_reminder_tittle">Daily Reminder</string>
+    <string name="lang_title">Language</string>
+    <string name="lang">Language</string>
+    <string name="release_reminder">Release Reminder</string>
+
+    <string name="summary_daily_release">You will receive release movies notification at 8 AM everyday</string>
+    <string name="summary_daily_reminder">You will receive reminder check app at 7 AM everyday</string>
+    <string name="summary_lang">Choose language</string>
+
+    <string name="appwidget_text">Favorite Film</string>
+    <string name="no_item">No Item</string>
+
+</resources>
